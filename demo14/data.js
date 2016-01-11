@@ -6,3 +6,4 @@
  *
  * Created by LiuYuTao on 2016/1/8.
  */
+var data = 'Hello World';
